@@ -72,4 +72,10 @@ godot discord
 
 chatgpt (incredible tool to help troubleshoot coding problems. Chat GPT works with godot 3.5, but it is easy to translate it to godot 4)
 
-Version LOG: Version - 2 - Fixed sound toggle button to allow turning music back on. Version 1 - First release - enjoy!
+Version LOG: 
+
+Version - 2 - Fixed sound toggle button to allow turning music back on, added reflections, cleaned directory other fixes 
+
+Version 1 - First release - enjoy!
+
+
