@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mfgw6cGf1LbdII0zR178AJmK8DcOi1KNNIvUQpOg5tiyxgHdRkHNZHQ7m4dPZMvLGU2SJziDh77oTogADONExA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Slimebuck\\Documents\\GodotNukem3D-main\\doom test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Slimebuck\\.nuget\\packages\\godot.sourcegenerators\\4.2.0-beta.1\\godot.sourcegenerators.4.2.0-beta.1.nupkg.sha512",
+    "C:\\Users\\Slimebuck\\.nuget\\packages\\godotsharp\\4.2.0-beta.1\\godotsharp.4.2.0-beta.1.nupkg.sha512",
+    "C:\\Users\\Slimebuck\\.nuget\\packages\\godotsharpeditor\\4.2.0-beta.1\\godotsharpeditor.4.2.0-beta.1.nupkg.sha512"
+  ],
+  "logs": []
+}

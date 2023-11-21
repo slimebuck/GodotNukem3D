@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://b8m0a53yajsdw"]
+
+[ext_resource type="AudioStream" uid="uid://khlv5bf4476x" path="res://sounds/boom1.wav" id="1_mue5p"]
+[ext_resource type="Script" path="res://boom_sound.gd" id="2_tm2u2"]
+
+[node name="Boom_sound" type="AudioStreamPlayer3D" groups=["explosion"]]
+stream = ExtResource("1_mue5p")
+volume_db = 20.0
+unit_size = 20.0
+max_db = 5.0
+script = ExtResource("2_tm2u2")

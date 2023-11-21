@@ -1,0 +1,14 @@
+Node3D
+AudioStreamPlayer
+StaticBody3D
+Node
+AudioStreamPlayer3D
+CollisionShape3D
+Area3D
+MeshInstance3D
+SoftBody3D
+DirectionalLight3D
+WorldEnvironment
+Timer
+GPUParticles3D
+Decal

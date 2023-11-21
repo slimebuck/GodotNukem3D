@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://cvq1ahe38lvh1"]
+
+[ext_resource type="AudioStream" uid="uid://c7ur3qtqro0yy" path="res://sounds/music/grabbaglegacy_loop.ogg" id="1_817vb"]
+
+[node name="AudioStreamPlayer_music" type="AudioStreamPlayer" groups=["music"]]
+stream = ExtResource("1_817vb")
+volume_db = 1.0
+autoplay = true

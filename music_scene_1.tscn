@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://crf0wwjvpj2vk"]
+
+[ext_resource type="AudioStream" uid="uid://42o6rkn15j33" path="res://sounds/music/quake-04.mp3" id="1_jfdvc"]
+
+[node name="AudioStreamPlayer_music" type="AudioStreamPlayer" groups=["music"]]
+stream = ExtResource("1_jfdvc")
+autoplay = true

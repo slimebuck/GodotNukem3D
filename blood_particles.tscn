@@ -1,0 +1,44 @@
+[gd_scene load_steps=9 format=3 uid="uid://bkt74ox75xypq"]
+
+[ext_resource type="Script" path="res://blood_particles.gd" id="1_7mrux"]
+[ext_resource type="Shader" uid="uid://cux8hv6muxugr" path="res://smoke_particles_shader.tres" id="1_7vhob"]
+[ext_resource type="Texture2D" uid="uid://o3e4q1hhajdf" path="res://shaders/Voronoi01.png" id="2_nog0c"]
+[ext_resource type="Texture2D" uid="uid://ccsmj0t30uwl1" path="res://particles/dirt_03.png" id="3_08jqh"]
+[ext_resource type="Texture2D" uid="uid://dgmcdeeep1uok" path="res://smoke_curve.tres" id="4_8igx6"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_4maly"]
+render_priority = 0
+shader = ExtResource("1_7vhob")
+shader_parameter/DissolveTiling = Vector2(0.25, 0.2)
+shader_parameter/DissolveSpeed = Vector2(0, 0.2)
+shader_parameter/DissolveAmount = 1.0
+shader_parameter/Texture2DParameter = ExtResource("3_08jqh")
+shader_parameter/DissolveTexture = ExtResource("2_nog0c")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_ftugo"]
+particle_flag_align_y = true
+emission_shape = 1
+emission_sphere_radius = 1.0
+gravity = Vector3(0, -2, 0)
+scale_min = 2.0
+scale_max = 4.0
+scale_curve = ExtResource("4_8igx6")
+color = Color(0.717647, 0.105882, 0.0431373, 1)
+
+[sub_resource type="QuadMesh" id="QuadMesh_80xap"]
+
+[node name="blood_particles" type="Node3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.6, 0)
+script = ExtResource("1_7mrux")
+
+[node name="gpuparticle" type="GPUParticles3D" parent="."]
+material_override = SubResource("ShaderMaterial_4maly")
+amount = 10
+lifetime = 3.5
+process_material = SubResource("ParticleProcessMaterial_ftugo")
+draw_pass_1 = SubResource("QuadMesh_80xap")
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 2.0
+
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]

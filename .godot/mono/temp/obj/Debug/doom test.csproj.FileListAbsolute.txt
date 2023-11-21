@@ -1,0 +1,68 @@
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\bin\Debug\doom test.deps.json
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\bin\Debug\doom test.runtimeconfig.json
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\bin\Debug\doom test.dll
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\bin\Debug\doom test.pdb
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\obj\Debug\doom test.csproj.AssemblyReference.cache
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\obj\Debug\doom test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\obj\Debug\doom test.AssemblyInfoInputs.cache
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\obj\Debug\doom test.AssemblyInfo.cs
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\obj\Debug\doom test.csproj.CoreCompileInputs.cache
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\obj\Debug\doom test.csproj.CopyComplete
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\obj\Debug\doom test.dll
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\obj\Debug\refint\doom test.dll
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\obj\Debug\doom test.pdb
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\obj\Debug\doom test.genruntimeconfig.cache
+C:\Users\Slimebuck\Documents\doom test\.godot\mono\temp\obj\Debug\ref\doom test.dll
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\bin\Debug\doom test.deps.json
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\bin\Debug\doom test.runtimeconfig.json
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\bin\Debug\doom test.dll
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\bin\Debug\doom test.pdb
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\obj\Debug\doom test.csproj.AssemblyReference.cache
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\obj\Debug\doom test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\obj\Debug\doom test.AssemblyInfoInputs.cache
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\obj\Debug\doom test.AssemblyInfo.cs
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\obj\Debug\doom test.csproj.CoreCompileInputs.cache
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\obj\Debug\doom test.csproj.CopyComplete
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\obj\Debug\doom test.dll
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\obj\Debug\refint\doom test.dll
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\obj\Debug\doom test.pdb
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\obj\Debug\doom test.genruntimeconfig.cache
+C:\Users\Slimebuck\Documents\Godot Nukem 3\.godot\mono\temp\obj\Debug\ref\doom test.dll
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\bin\Debug\doom test.deps.json
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\bin\Debug\doom test.runtimeconfig.json
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\bin\Debug\doom test.dll
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\bin\Debug\doom test.pdb
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\obj\Debug\doom test.csproj.AssemblyReference.cache
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\obj\Debug\doom test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\obj\Debug\doom test.AssemblyInfoInputs.cache
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\obj\Debug\doom test.AssemblyInfo.cs
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\obj\Debug\doom test.csproj.CoreCompileInputs.cache
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\obj\Debug\doom test.csproj.CopyComplete
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\obj\Debug\doom test.dll
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\obj\Debug\refint\doom test.dll
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\obj\Debug\doom test.pdb
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\obj\Debug\doom test.genruntimeconfig.cache
+C:\Users\Slimebuck\Documents\GodotNukem3D\.godot\mono\temp\obj\Debug\ref\doom test.dll
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\bin\Debug\doom test.deps.json
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\bin\Debug\doom test.runtimeconfig.json
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\bin\Debug\doom test.dll
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\bin\Debug\doom test.pdb
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\obj\Debug\doom test.csproj.AssemblyReference.cache
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\obj\Debug\doom test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\obj\Debug\doom test.AssemblyInfoInputs.cache
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\obj\Debug\doom test.AssemblyInfo.cs
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\obj\Debug\doom test.csproj.CoreCompileInputs.cache
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\obj\Debug\doom test.csproj.CopyComplete
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\obj\Debug\doom test.dll
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\obj\Debug\refint\doom test.dll
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\obj\Debug\doom test.pdb
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\obj\Debug\doom test.genruntimeconfig.cache
+C:\Users\Slimebuck\Documents\GodotNukem3D-main\.godot\mono\temp\obj\Debug\ref\doom test.dll

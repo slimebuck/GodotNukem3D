@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://cg2mpmnot3aqr"]
+
+[ext_resource type="Texture2D" uid="uid://bpwvpgnt0ghlm" path="res://particles/dirt_02.png" id="1_qde7y"]
+
+[node name="Decal" type="Decal" groups=["decals"]]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.125, 0)
+layers = 32
+size = Vector3(2, 9.25, 2)
+texture_albedo = ExtResource("1_qde7y")
+modulate = Color(0.764706, 0.027451, 0.0156863, 1)
+cull_mask = 1047553

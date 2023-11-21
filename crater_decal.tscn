@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://cyx2as8yej4yn"]
+
+[ext_resource type="Texture2D" uid="uid://d1av71nyh2w1l" path="res://textures/crater_1.png" id="1_2xvnk"]
+
+[node name="Crater_Decal" type="Decal" groups=["decals"]]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.45058e-09, -0.2, 0.1)
+layers = 32
+texture_albedo = ExtResource("1_2xvnk")
+cull_mask = 1047553

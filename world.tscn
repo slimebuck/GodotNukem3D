@@ -1,0 +1,19 @@
+[gd_scene load_steps=4 format=3 uid="uid://c7b6cmlujepe2"]
+
+[ext_resource type="PackedScene" uid="uid://te4a26ibtve6" path="res://player.tscn" id="1_eybpm"]
+[ext_resource type="PackedScene" uid="uid://bxpnaka1mycig" path="res://enemy_overlord.tscn" id="2_413jh"]
+[ext_resource type="PackedScene" uid="uid://klpo5m5x6pn6" path="res://city_level.tscn" id="3_pllk0"]
+
+[node name="World" type="Node3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2, -1, -1)
+
+[node name="city_level" parent="." instance=ExtResource("3_pllk0")]
+
+[node name="Player" parent="." instance=ExtResource("1_eybpm")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 11.2943, 7.55478, -276)
+
+[node name="enemies" type="Node3D" parent="." groups=["enemies"]]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, -10, 0.3, 0)
+
+[node name="Enemy" parent="enemies" instance=ExtResource("2_413jh")]
+transform = Transform3D(5, 0, 0, 0, 5, 0, 0, 0, 5, -76, 48.6187, -2.86102e-06)

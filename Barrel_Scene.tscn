@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3 uid="uid://y7s7vnvtfegq"]
+
+[ext_resource type="Script" path="res://Barrels_Scene.gd" id="1_q20ny"]
+[ext_resource type="PackedScene" uid="uid://bqyxpj5yu4f56" path="res://barrel_rigid_body_3d.tscn" id="2_gwqo8"]
+
+[node name="Projectile_barrel" type="Node3D" groups=["barrel"]]
+transform = Transform3D(-1, 2.6552e-16, -8.74228e-08, 2.07508e-10, 0.999997, -0.0023737, 8.74225e-08, -0.0023737, -0.999997, 0.6, 0, 0)
+script = ExtResource("1_q20ny")
+
+[node name="Barrel_RigidBody3D" parent="." instance=ExtResource("2_gwqo8")]
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 10.0
+
+[node name="Kill_Timer" type="Timer" parent="."]
+wait_time = 10.0
+one_shot = true
+
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]
+[connection signal="timeout" from="Kill_Timer" to="." method="_on_kill_timer_timeout"]
