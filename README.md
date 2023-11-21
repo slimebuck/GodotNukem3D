@@ -21,9 +21,13 @@ Controls:
 
 make sure the three scripts are autoloaded in Project /Project settings 
 
-audio.gd
-game_state.gd 
-Sprite_Rotation.gd
+
+  audio.gd
+
+  game_state.gd 
+
+  Sprite_Rotation.gd
+
 
 
 Introduction
